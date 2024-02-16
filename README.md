@@ -26,7 +26,7 @@ The app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch w
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
+Contributions are welcome! Please read the contribution guidelines before submitting a pull request.
 
 
 ## Acknowledgements
