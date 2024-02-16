@@ -17,10 +17,10 @@ Enter a city name or zip code to fetch the current weather information for that 
 
 ## Screenshots
 
-![Screenshot 1](/pic1.png)
-![Screenshot 2](/pic2.png)
-![Screenshot 3](/pic3.png)
-![Screenshot 4](/pic4.png)
+![Screenshot 1](/pic1.jpg)
+![Screenshot 2](/pic2.jpg)
+![Screenshot 3](/pic3.jpg)
+![Screenshot 4](/pic4.jpg)
 
 ## API Documentation
 
