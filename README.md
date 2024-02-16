@@ -1,6 +1,6 @@
 # Weather-Desktop-App
 
-This is a desktop weather application that fetches current weather information using the OpenWeatherMap API.
+This is a desktop weather application that fetches current weather information using the OpenWeatherMap API. Developed a desktop weather application using Python and Tkinter GUI framework. The application utilizes the OpenWeatherMap API to gather current weather information based on the user's location. It provides features such as retrieving current weather data, displaying a 7-day forecast, and showing a 24-hour forecast.
 
 ## Getting Started
 
